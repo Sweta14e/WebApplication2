@@ -1,5 +1,5 @@
 # WebApplication2
-CRUD operations on .net core 6
+CRUD operations on .net core 6 using MVC(Model-View-Controller)
 
 1. Download the zip file and extract it.
 2. Refer CRUD operations .net core 6(MVC).docx file, all step by step explaination is added if stuck with any of the line of code understanding.
